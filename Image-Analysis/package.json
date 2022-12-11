@@ -1,0 +1,17 @@
+{
+  "name": "image-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lennard john",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/cognitiveservices-computervision": "^8.2.0",
+    "@azure/storage-blob": "^12.12.0",
+    "async": "^3.2.4",
+    "parcel": "^2.8.0"
+  }
+}
